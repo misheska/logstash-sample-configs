@@ -1,0 +1,4 @@
+120707  0:40:34     4 Connect   root@localhost on
+                    4 Query     select @@version_comment limit 1
+120707  0:40:45     4 Query     select * from mysql.user
+120707  0:41:18     5 Query     hello world
