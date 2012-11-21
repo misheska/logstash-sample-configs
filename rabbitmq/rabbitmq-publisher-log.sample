@@ -1,0 +1,15 @@
+=INFO REPORT==== 14-Mar-2010::11:22:08 ===
+accepted TCP connection on 0.0.0.0:5672 from 192.168.2.10:62432
+
+=INFO REPORT==== 14-Mar-2010::11:22:08 ===
+starting TCP connection <0.24232.1> from 192.168.2.10:62432
+
+=INFO REPORT==== 14-Mar-2010::11:22:08 ===
+closing TCP connection <0.24232.1> from 192.168.2.10:62432
+
+=WARNING REPORT==== 14-Mar-2010::11:25:03 ===
+exception on TCP connection <0.24154.1> from 192.168.2.10:62424
+connection_closed_abruptly
+
+=INFO REPORT==== 14-Mar-2010::11:25:03 ===
+closing TCP connection <0.24154.1> from 192.168.2.10:62424
